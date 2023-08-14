@@ -28,7 +28,7 @@ function checkSession() {
   }
 
 async function mencariLink(){
-    const linknya = 'a[href^="https://www.tokopedia.com/"]';
+    const linknya = 'a[href^="https://tokopedia"]';
     let linkElement = await page.$(linknya);
     
     while (!linkElement){
