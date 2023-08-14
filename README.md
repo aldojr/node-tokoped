@@ -1,4 +1,4 @@
-BMTH YOOOOO!
+**BMTH YOOOOO!**
 
 
 Masuk dengan cmd ke lokasi folder posisi script tokped.js
