@@ -1,7 +1,7 @@
 **BMTH YOOOOO!**
 
 
-Masuk dengan cmd ke lokasi folder posisi script tokped.js
+**Masuk dengan cmd ke lokasi folder posisi script tokped.js**
 1. npm install puppeteer
 2. npm install puppeteer-extra
 3. npm install puppeteer-extra-plugin-stealth
@@ -12,9 +12,11 @@ Masuk dengan cmd ke lokasi folder posisi script tokped.js
 
 =================================================
 
-1. login akun tokopedia di chrome browser 
-2. Install extension "Export cookie JSON file for Puppeteer" di browser
-3. Buka tab Instagram yang sudah di-login dan export cookies menggunakan extension tadi
-4. ganti nama file exportnya menjadi cookies.json, pindahkan file cookies.json 1 folder dengan scriptnya
-5. running script dengan command node tokped.js 
-6. input link https://bmthindo.com
+**Prepare**
+
+1. Login Tokopedia Account in Your Chrome Browser 
+2. Install extension "Export cookie JSON file for Puppeteer" in your chrome browser
+3. Open Your tab Tokopedia Account and Export cookies with extension "Export cookie JSON file for Puppeteer"
+4. Change file name to cookies.json, move file cookies.json to same folder with tokped.js
+5. Running script with command node tokped.js 
+6. And Input Your LINK, example: https://bmthindo.com
