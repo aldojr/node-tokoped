@@ -9,6 +9,9 @@ Masuk dengan cmd ke lokasi folder posisi script tokped.js
 5. npm install readline
 
 
+
+=================================================
+
 1. login akun tokopedia di chrome browser 
 2. Install extension "Export cookie JSON file for Puppeteer" di browser
 3. Buka tab Instagram yang sudah di-login dan export cookies menggunakan extension tadi
