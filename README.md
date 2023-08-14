@@ -2,11 +2,11 @@
 
 
 Masuk dengan cmd ke lokasi folder posisi script tokped.js
-npm install puppeteer
-npm install puppeteer-extra
-npm install puppeteer-extra-plugin-stealth
-npm install fs
-npm install readline
+1. npm install puppeteer
+2. npm install puppeteer-extra
+3. npm install puppeteer-extra-plugin-stealth
+4. npm install fs
+5. npm install readline
 
 
 1. login akun tokopedia di chrome browser 
