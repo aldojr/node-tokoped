@@ -1,7 +1,7 @@
 **BMTH YOOOOO!**
 
 
-**Masuk dengan cmd ke lokasi folder posisi script tokped.js**
+**Open Your CMD go to folder script tokped.js**
 1. npm install puppeteer
 2. npm install puppeteer-extra
 3. npm install puppeteer-extra-plugin-stealth
